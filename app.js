@@ -77,8 +77,8 @@ items.innerHTML = ''
         templateCarrito.querySelector('th').textContent = producto.id
         templateCarrito.querySelectorAll('td')[0].textContent = producto.title
         templateCarrito.querySelectorAll('td')[1].textContent = producto.cantidad
-        templateCarrito.querySelector('.btn-info').dataset.id = producto.id
-        templateCarrito.querySelector('.btn-danger').dataset.id = producto.id
+        templateCarrito.querySelector('.btn-success').dataset.id = producto.id
+        templateCarrito.querySelector('.btn-outline-success').dataset.id = producto.id
         templateCarrito.querySelector('span').textContent = producto.cantidad * producto.precio
 
         const clone = templateCarrito.cloneNode(true)
@@ -118,7 +118,7 @@ const pintarFooter = () => {
 
 const btnAccion = e => {
     console.log(e.target)
-    if(e.target.classList.contains('btn-info')){
+    if(e.target.classList.contains('btn-success')){
         //carrito[e.target.dataset.id]
         const producto = carrito[e.target.dataset.id]
         producto.cantidad = carrito[e.target.dataset.id].cantidad + 1
@@ -126,7 +126,7 @@ const btnAccion = e => {
         pintarCarrito()
     }
 
-    if(e.target.classList.contains('btn-danger')){
+    if(e.target.classList.contains('btn-outline-success')){
         const producto = carrito[e.target.dataset.id]
         producto.cantidad--
         if(producto.cantidad === 0){

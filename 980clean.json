@@ -1,0 +1,192 @@
+[
+    {
+        "precio": 4835, 
+        "id": 1,
+        "title": "Abrillantador Pisos Flotantes",
+        "thumbnailUrl": "https://i.ibb.co/hCbHnTX/9.png"
+    },
+    {
+        "precio": 6890, 
+        "id": 2,
+        "title": "Detergente Matic 5l",
+        "thumbnailUrl": "https://i.ibb.co/rFFp83z/20.png"
+    },
+    {
+        "precio": 2070, 
+        "id": 3,
+        "title": "Lavalozas 2 lt",
+        "thumbnailUrl": "https://i.ibb.co/LnFbNtp/23.png"
+    },
+    {
+        "precio": 1340, 
+        "id": 4,
+        "title": "Limpiador Crema",
+        "thumbnailUrl": "https://i.ibb.co/B4kLndX/22.png"
+    },
+    {
+        "precio": 1110, 
+        "id": 5,
+        "title": "Trapero Seco",
+        "thumbnailUrl": "https://i.ibb.co/mC71Fkg/8.png" 
+    },
+    {
+        "precio": 990, 
+        "id": 6,
+        "title": "Guante Limpieza",
+        "thumbnailUrl": "https://i.ibb.co/WV14dJ3/13.png"
+    },
+    {
+        "precio": 1350, 
+        "id": 7,
+        "title": "Antigrasa Roceador 500 Ml",
+        "thumbnailUrl": "https://i.ibb.co/WyS1bNv/7.png"
+    },
+    {
+        "precio": 2640, 
+        "id": 8,
+        "title": "Limpiavidrios Multiuso 500 Ml",
+        "thumbnailUrl": "https://i.ibb.co/606d2tQ/29.png"
+    },
+    {
+        "precio": 1650, 
+        "id": 9,
+        "title": "Jabón Líquido 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/nbCw49g/1.png"
+    },
+    {
+        "precio": 2400, 
+        "id": 10,
+        "title": "Trapero Húmedo",
+        "thumbnailUrl": "https://i.ibb.co/gWSjXBk/2.png"
+    },
+    {
+        "precio": 1390, 
+        "id": 11,
+        "title": "Lavalozas Incoludido",
+        "thumbnailUrl": "https://i.ibb.co/MGVqy4Z/3.png"
+    },
+    {
+        "precio": 1480, 
+        "id": 12,
+        "title": "Lavalozas Ultraconcentrado 500 Ml",
+        "thumbnailUrl": "https://i.ibb.co/mSCWMRQ/5.png"
+    },
+    {
+        "precio": 1100, 
+        "id": 13,
+        "title": "Cloro Líquido 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/64gsXZN/6.png"
+    },
+    {
+        "precio": 1300, 
+        "id": 14,
+        "title": "Detergente Tadea Matic 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/hcwPzwq/4.png"
+    },
+    {
+        "precio": 2210, 
+        "id": 15,
+        "title": "Limpiador Piso Flotante",
+        "thumbnailUrl": "https://i.ibb.co/s5gjqjB/10.png"
+    },
+    {
+        "precio": 2890, 
+        "id": 16,
+        "title": "Eliminador de Sarro",
+        "thumbnailUrl": "https://i.ibb.co/nrpvQrw/11.png"
+    },
+    {
+        "precio": 1370, 
+        "id": 17,
+        "title": "Antigrasa 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/0y8WWVx/12.png"
+    },
+    {
+        "precio": 1970, 
+        "id": 18,
+        "title": "Paños Desinfectantes",
+        "thumbnailUrl": "https://i.ibb.co/S6Nt8Fy/14.png"
+    },
+    {
+        "precio": 930, 
+        "id": 19,
+        "title": "Limpiapisos",
+        "thumbnailUrl": "https://i.ibb.co/0n4xdrh/15.png"
+    },
+    {
+        "precio": 1470, 
+        "id": 20,
+        "title": "Toalla Papel Tork",
+        "thumbnailUrl": "https://i.ibb.co/YWGzqvj/16.png"
+    },
+    {
+        "precio": 190, 
+        "id": 21,
+        "title": "Esponja Acanalada",
+        "thumbnailUrl": "https://i.ibb.co/Qjndt7X/17.png"
+    },
+    {
+        "precio": 2950, 
+        "id": 22,
+        "title": "Desinfectante de ambientes y sups.",
+        "thumbnailUrl": "https://i.ibb.co/h8nmDqf/18.png"
+    },
+    {
+        "precio": 1070, 
+        "id": 23,
+        "title": "Papel Higiénico Incoludido",
+        "thumbnailUrl": "https://i.ibb.co/bzV7fSR/19.png"
+    },
+    {
+        "precio": 1450, 
+        "id": 24,
+        "title": "Bálsamo Suavizante Ropa",
+        "thumbnailUrl": "https://i.ibb.co/1qcSSzh/21.png"
+    },
+    {
+        "precio": 6890, 
+        "id": 25,
+        "title": "Detergente Matic Ultra 5 Lt",
+        "thumbnailUrl": "https://i.ibb.co/rFFp83z/20.png"
+    },
+    {
+        "precio": 1370, 
+        "id": 26,
+        "title": "Cloro Gel 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/DCgw9Bh/24.png"
+    },
+    {
+        "precio": 3390, 
+        "id": 26,
+        "title": "Cloro Concentrado 4 Lts",
+        "thumbnailUrl": "https://i.ibb.co/MZJ5C18/25.png"
+    },
+    {
+        "precio": 1690, 
+        "id": 26,
+        "title": "Bolsas Basura 80x110",
+        "thumbnailUrl": "https://i.ibb.co/C5X7gr6/26.png"
+    },
+    {
+        "precio": 1040, 
+        "id": 26,
+        "title": "Bolsas Basura 70x90",
+        "thumbnailUrl": "https://i.ibb.co/xDSCFjz/27.png"
+    },
+    {
+        "precio": 560, 
+        "id": 26,
+        "title": "Bolsas Basura 50x70",
+        "thumbnailUrl": "https://i.ibb.co/ctg4sMB/28.png"
+    },
+    {
+        "precio": 240, 
+        "id": 26,
+        "title": "Paño Amarillo",
+        "thumbnailUrl": "https://i.ibb.co/N6TFNYm/Dise-o-sin-t-tulo-4.png"
+    }
+]
+  
+  
+	
+	

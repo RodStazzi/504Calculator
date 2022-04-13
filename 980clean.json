@@ -126,68 +126,92 @@
         "thumbnailUrl": "https://i.ibb.co/Qjndt7X/17.png"
     },
     {
-        "precio": 2950, 
+        "precio": 540, 
         "id": 22,
+        "title": "Esponja Acanalada x 3",
+        "thumbnailUrl": "https://i.ibb.co/G2996cL/31.png"
+    },
+    {
+        "precio": 880, 
+        "id": 23,
+        "title": "Esponja Acanalada x 5",
+        "thumbnailUrl": "https://i.ibb.co/2j8xsbW/32.png"
+    },
+    {
+        "precio": 2950, 
+        "id": 24,
         "title": "Desinfectante de ambientes y sups.",
         "thumbnailUrl": "https://i.ibb.co/h8nmDqf/18.png"
     },
     {
         "precio": 1070, 
-        "id": 23,
+        "id": 25,
         "title": "Papel Higiénico Incoludido",
         "thumbnailUrl": "https://i.ibb.co/bzV7fSR/19.png"
     },
     {
         "precio": 1450, 
-        "id": 24,
+        "id": 26,
         "title": "Bálsamo Suavizante Ropa",
         "thumbnailUrl": "https://i.ibb.co/1qcSSzh/21.png"
     },
     {
         "precio": 6890, 
-        "id": 25,
+        "id": 27,
         "title": "Detergente Matic Ultra 5 Lt",
         "thumbnailUrl": "https://i.ibb.co/rFFp83z/20.png"
     },
     {
         "precio": 1370, 
-        "id": 26,
+        "id": 28,
         "title": "Cloro Gel 1 Lt",
         "thumbnailUrl": "https://i.ibb.co/DCgw9Bh/24.png"
     },
     {
         "precio": 3390, 
-        "id": 27,
+        "id": 29,
         "title": "Cloro Concentrado 4 Lts",
         "thumbnailUrl": "https://i.ibb.co/MZJ5C18/25.png"
     },
     {
         "precio": 1690, 
-        "id": 28,
+        "id": 30,
         "title": "Bolsas Basura 80x110",
         "thumbnailUrl": "https://i.ibb.co/C5X7gr6/26.png"
     },
     {
         "precio": 1040, 
-        "id": 29,
+        "id": 31,
         "title": "Bolsas Basura 70x90",
         "thumbnailUrl": "https://i.ibb.co/xDSCFjz/27.png"
     },
     {
         "precio": 560, 
-        "id": 30,
+        "id": 32,
         "title": "Bolsas Basura 50x70",
         "thumbnailUrl": "https://i.ibb.co/ctg4sMB/28.png"
     },
     {
         "precio": 240, 
-        "id": 31,
+        "id": 33,
         "title": "Paño Amarillo",
         "thumbnailUrl": "https://i.ibb.co/N6TFNYm/Dise-o-sin-t-tulo-4.png"
     },
     {
+        "precio": 630, 
+        "id": 34,
+        "title": "Paño Amarillo x 3",
+        "thumbnailUrl": "https://i.ibb.co/N6TFNYm/Dise-o-sin-t-tulo-4.png"
+    },
+    {
+        "precio": 1020, 
+        "id": 35,
+        "title": "Paño Amarillo x 5",
+        "thumbnailUrl": "https://i.ibb.co/sj9MBsh/33.png"
+    },
+    {
         "precio": 650, 
-        "id": 32,
+        "id": 36,
         "title": "Servilletas Cocktail",
         "thumbnailUrl": "https://i.ibb.co/MP7DvX2/30.png"
     }

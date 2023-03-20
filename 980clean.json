@@ -12,13 +12,13 @@
         "thumbnailUrl": "https://i.ibb.co/rFFp83z/20.png"
     },
     {
-        "precio": 2070, 
+        "precio": 2140, 
         "id": 3,
         "title": "Lavalozas 2 lt",
         "thumbnailUrl": "https://i.ibb.co/LnFbNtp/23.png"
     },
     {
-        "precio": 1340, 
+        "precio": 1410, 
         "id": 4,
         "title": "Limpiador Crema",
         "thumbnailUrl": "https://i.ibb.co/B4kLndX/22.png"
@@ -48,13 +48,13 @@
         "thumbnailUrl": "https://i.ibb.co/606d2tQ/29.png"
     },
     {
-        "precio": 1650, 
+        "precio": 1750, 
         "id": 9,
         "title": "Jabón Líquido 1 Lt",
         "thumbnailUrl": "https://i.ibb.co/nbCw49g/1.png"
     },
     {
-        "precio": 2400, 
+        "precio": 2450, 
         "id": 10,
         "title": "Trapero Húmedo",
         "thumbnailUrl": "https://i.ibb.co/gWSjXBk/2.png"
@@ -102,19 +102,19 @@
         "thumbnailUrl": "https://i.ibb.co/0y8WWVx/12.png"
     },
     {
-        "precio": 1970, 
+        "precio": 2170, 
         "id": 18,
         "title": "Paños Desinfectantes",
         "thumbnailUrl": "https://i.ibb.co/S6Nt8Fy/14.png"
     },
     {
-        "precio": 930, 
+        "precio": 1030, 
         "id": 19,
         "title": "Limpiapisos",
         "thumbnailUrl": "https://i.ibb.co/0n4xdrh/15.png"
     },
     {
-        "precio": 1470, 
+        "precio": 1510, 
         "id": 20,
         "title": "Toalla Papel Tork",
         "thumbnailUrl": "https://i.ibb.co/YWGzqvj/16.png"
@@ -210,10 +210,16 @@
         "thumbnailUrl": "https://i.ibb.co/sj9MBsh/33.png"
     },
     {
-        "precio": 650, 
+        "precio": 690, 
         "id": 36,
         "title": "Servilletas Cocktail",
         "thumbnailUrl": "https://i.ibb.co/MP7DvX2/30.png"
+    },
+    {
+        "precio": 4750, 
+        "id": 37,
+        "title": "Detergente Matic Ultra 3 Lt",
+        "thumbnailUrl": "https://i.ibb.co/ScnjfL5/37.png"
     }
 
 ]

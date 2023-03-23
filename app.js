@@ -26,7 +26,7 @@ const fetchData = async () => {
     try {
         const res = await fetch('980clean.json')
         const data = await res.json()
-        //console.log(data)
+        console.log('data ',data)
         pintarCards(data)
     } catch (error) {
         console.log(error)
@@ -56,7 +56,7 @@ const addCarrito = e => {
 }
 
 const setCarrito = objeto => {
-    console.log(objeto)
+    console.log('objeto ',objeto)
     const producto = {
         id: objeto.querySelector('.btn-dark').dataset.id,
         title: objeto.querySelector('h5').textContent,
@@ -67,11 +67,12 @@ const setCarrito = objeto => {
         producto.cantidad = carrito[producto.id].cantidad + 1
     }
     carrito[producto.id] = {...producto}
+    console.log('producto ',producto)
     pintarCarrito()
 }
 
 const pintarCarrito = () => {
-//    console.log(carrito)
+    console.log('carrito ',carrito)
 items.innerHTML = ''
     Object.values(carrito).forEach(producto =>{
         templateCarrito.querySelector('th').textContent = producto.id
@@ -117,7 +118,7 @@ const pintarFooter = () => {
 }
 
 const btnAccion = e => {
-    console.log(e.target)
+    console.log('btnAccion e.target',e.target)
     if(e.target.classList.contains('btn-success')){
         //carrito[e.target.dataset.id]
         const producto = carrito[e.target.dataset.id]

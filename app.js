@@ -122,6 +122,7 @@ const btnAccion = e => {
     if(e.target.classList.contains('btn-success')){
         //carrito[e.target.dataset.id]
         const producto = carrito[e.target.dataset.id]
+        console.log('btn-success ', producto)
         producto.cantidad = carrito[e.target.dataset.id].cantidad + 1
         carrito[e.target.dataset.id] = {...producto}
         pintarCarrito()
@@ -129,6 +130,7 @@ const btnAccion = e => {
 
     if(e.target.classList.contains('btn-outline-success')){
         const producto = carrito[e.target.dataset.id]
+        console.log('btn-outline-success ', producto)
         producto.cantidad--
         if(producto.cantidad === 0){
             delete carrito[e.target.dataset.id]

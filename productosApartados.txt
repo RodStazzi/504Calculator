@@ -22,3 +22,9 @@
         "title": "Detergente Tadea Matic 1 Lt",
         "thumbnailUrl": "https://i.ibb.co/hcwPzwq/4.png"
     },
+    {
+        "precio": 3390, 
+        "id": 29,
+        "title": "Cloro Concentrado 4 Lts",
+        "thumbnailUrl": "https://i.ibb.co/MZJ5C18/25.png"
+    },

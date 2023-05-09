@@ -1,0 +1,24 @@
+    {
+        "precio": 6890, 
+        "id": 2,
+        "title": "Detergente Matic 5l",
+        "thumbnailUrl": "https://i.ibb.co/rFFp83z/20.png"
+    },
+    {
+        "precio": 1390, 
+        "id": 11,
+        "title": "Lavalozas Incoludido",
+        "thumbnailUrl": "https://i.ibb.co/MGVqy4Z/3.png"
+    },
+    {
+        "precio": 1480, 
+        "id": 12,
+        "title": "Lavalozas Ultraconcentrado 500 Ml",
+        "thumbnailUrl": "https://i.ibb.co/mSCWMRQ/5.png"
+    },
+    {
+        "precio": 1300, 
+        "id": 14,
+        "title": "Detergente Tadea Matic 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/hcwPzwq/4.png"
+    },

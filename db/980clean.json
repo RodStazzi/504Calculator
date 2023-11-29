@@ -1,0 +1,189 @@
+[
+    {
+        "precio": 4835, 
+        "id": 1,
+        "title": "Abrillantador Pisos Flotantes",
+        "thumbnailUrl": "https://i.ibb.co/hCbHnTX/9.png"
+    },
+    {
+        "precio": 2140, 
+        "id": 3,
+        "title": "Lavalozas 2 lt",
+        "thumbnailUrl": "https://i.ibb.co/LnFbNtp/23.png"
+    },
+    {
+        "precio": 1410, 
+        "id": 4,
+        "title": "Limpiador Crema",
+        "thumbnailUrl": "https://i.ibb.co/B4kLndX/22.png"
+    },
+    {
+        "precio": 1110, 
+        "id": 5,
+        "title": "Trapero Seco",
+        "thumbnailUrl": "https://i.ibb.co/mC71Fkg/8.png" 
+    },
+    {
+        "precio": 990, 
+        "id": 6,
+        "title": "Guante Limpieza",
+        "thumbnailUrl": "https://i.ibb.co/WV14dJ3/13.png"
+    },
+    {
+        "precio": 1350, 
+        "id": 7,
+        "title": "Antigrasa Roceador 500 Ml",
+        "thumbnailUrl": "https://i.ibb.co/WyS1bNv/7.png"
+    },
+    {
+        "precio": 2640, 
+        "id": 8,
+        "title": "Limpiavidrios Multiuso 500 Ml",
+        "thumbnailUrl": "https://i.ibb.co/606d2tQ/29.png"
+    },
+    {
+        "precio": 1750, 
+        "id": 9,
+        "title": "Jabón Líquido 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/nbCw49g/1.png"
+    },
+    {
+        "precio": 2450, 
+        "id": 10,
+        "title": "Trapero Húmedo",
+        "thumbnailUrl": "https://i.ibb.co/gWSjXBk/2.png"
+    },
+    {
+        "precio": 1100, 
+        "id": 13,
+        "title": "Cloro Líquido 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/64gsXZN/6.png"
+    },
+    {
+        "precio": 2210, 
+        "id": 15,
+        "title": "Limpiador Piso Flotante",
+        "thumbnailUrl": "https://i.ibb.co/s5gjqjB/10.png"
+    },
+    {
+        "precio": 2890, 
+        "id": 16,
+        "title": "Eliminador de Sarro",
+        "thumbnailUrl": "https://i.ibb.co/nrpvQrw/11.png"
+    },
+    {
+        "precio": 1370, 
+        "id": 17,
+        "title": "Antigrasa 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/0y8WWVx/12.png"
+    },
+    {
+        "precio": 2170, 
+        "id": 18,
+        "title": "Paños Desinfectantes",
+        "thumbnailUrl": "https://i.ibb.co/S6Nt8Fy/14.png"
+    },
+    {
+        "precio": 1030, 
+        "id": 19,
+        "title": "Limpiapisos",
+        "thumbnailUrl": "https://i.ibb.co/0n4xdrh/15.png"
+    },
+    {
+        "precio": 1510, 
+        "id": 20,
+        "title": "Toalla Papel Tork",
+        "thumbnailUrl": "https://i.ibb.co/YWGzqvj/16.png"
+    },
+    {
+        "precio": 190, 
+        "id": 21,
+        "title": "Esponja Acanalada",
+        "thumbnailUrl": "https://i.ibb.co/Qjndt7X/17.png"
+    },
+    {
+        "precio": 540, 
+        "id": 22,
+        "title": "Esponja Acanalada x 3",
+        "thumbnailUrl": "https://i.ibb.co/G2996cL/31.png"
+    },
+    {
+        "precio": 880, 
+        "id": 23,
+        "title": "Esponja Acanalada x 5",
+        "thumbnailUrl": "https://i.ibb.co/2j8xsbW/32.png"
+    },
+    {
+        "precio": 2950, 
+        "id": 24,
+        "title": "Desinfectante de ambientes y sups.",
+        "thumbnailUrl": "https://i.ibb.co/h8nmDqf/18.png"
+    },
+    {
+        "precio": 1270, 
+        "id": 25,
+        "title": "Papel Higiénico Incoludido",
+        "thumbnailUrl": "https://i.ibb.co/bzV7fSR/19.png"
+    },
+    {
+        "precio": 1450, 
+        "id": 26,
+        "title": "Bálsamo Suavizante Ropa",
+        "thumbnailUrl": "https://i.ibb.co/1qcSSzh/21.png"
+    },
+    {
+        "precio": 1370, 
+        "id": 28,
+        "title": "Cloro Gel 1 Lt",
+        "thumbnailUrl": "https://i.ibb.co/DCgw9Bh/24.png"
+    },
+    {
+        "precio": 1690, 
+        "id": 30,
+        "title": "Bolsas Basura 80x110",
+        "thumbnailUrl": "https://i.ibb.co/C5X7gr6/26.png"
+    },
+    {
+        "precio": 1040, 
+        "id": 31,
+        "title": "Bolsas Basura 70x90",
+        "thumbnailUrl": "https://i.ibb.co/xDSCFjz/27.png"
+    },
+    {
+        "precio": 560, 
+        "id": 32,
+        "title": "Bolsas Basura 50x70",
+        "thumbnailUrl": "https://i.ibb.co/ctg4sMB/28.png"
+    },
+    {
+        "precio": 240, 
+        "id": 33,
+        "title": "Paño Amarillo",
+        "thumbnailUrl": "https://i.ibb.co/N6TFNYm/Dise-o-sin-t-tulo-4.png"
+    },
+    {
+        "precio": 630, 
+        "id": 34,
+        "title": "Paño Amarillo x 3",
+        "thumbnailUrl": "https://i.ibb.co/N6TFNYm/Dise-o-sin-t-tulo-4.png"
+    },
+    {
+        "precio": 1020, 
+        "id": 35,
+        "title": "Paño Amarillo x 5",
+        "thumbnailUrl": "https://i.ibb.co/sj9MBsh/33.png"
+    },
+    {
+        "precio": 690, 
+        "id": 36,
+        "title": "Servilletas Cocktail",
+        "thumbnailUrl": "https://i.ibb.co/MP7DvX2/30.png"
+    },
+    {
+        "precio": 4750, 
+        "id": 37,
+        "title": "Detergente Matic Ultra 3 Lt",
+        "thumbnailUrl": "https://i.ibb.co/qJydm89/37.png"
+    }
+
+]

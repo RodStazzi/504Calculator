@@ -341,7 +341,7 @@ document.getElementById('pago-transferencia').addEventListener('click', function
         costo += compra.carrito[key].precio * compra.carrito[key].cantidad;
         desgloce += `%0A${compra.carrito[key].cantidad} ${compra.carrito[key].nombre} $${compra.carrito[key].precio * compra.carrito[key].cantidad}`
       }
-        desgloce += `%0ATOTAL ${total}`
+      //      desgloce += `%0ATOTAL ${total}`
 
       if (efectivo == false) {
         wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504Clean_T%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20total%20de%20${total}%20`;

@@ -344,9 +344,9 @@ document.getElementById('pago-transferencia').addEventListener('click', function
       //      desgloce += `%0ATOTAL ${total}`
 
       if (efectivo == false) {
-        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504clean_t%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20Total%20de%20${total}%20`;
+        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504clean_t%20-%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20Total%20de%20${total}%20`;
       } else {
-        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504clean_e%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20Total%20de%20${total}%20`;
+        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504clean_e%20-%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20Total%20de%20${total}%20`;
       }
 //  `%20pedido%0A2 Limpiavidrios 1234%0A3 Servilletas 1234%0A5 Papel%20Higi%C3%A9nico 1234`
       if (efectivo == true) {
@@ -370,7 +370,7 @@ document.getElementById('pago-transferencia').addEventListener('click', function
       };
       //creaVen(payload);
       window.location.href = wspMessage;
-      //window.location.href = `https://api.whatsapp.com/send?phone=56962118510&text=%5B504Clean_E%5D%20Que%20tal%20vecino,%20soy%2012356%20acabo%20de%20hacer%20mi%20pedido%20$Zgu3561%20por%20un%20total%20de%20$112346%20en%20efectivo.%20Me%20gustar%C3%ADa%20%20agendar%20mi%20pedido%0A2 Limpiavidrios 1234%0A3 Servilletas 1234%0A5 Papel%20Higi%C3%A9nico 1234`;
+      //window.location.href = `https://api.whatsapp.com/send?phone=56962118510&text=%5B504Clean_E%20-%20Que%20tal%20vecino,%20soy%2012356%20acabo%20de%20hacer%20mi%20pedido%20$Zgu3561%20por%20un%20total%20de%20$112346%20en%20efectivo.%20Me%20gustar%C3%ADa%20%20agendar%20mi%20pedido%0A2 Limpiavidrios 1234%0A3 Servilletas 1234%0A5 Papel%20Higi%C3%A9nico 1234`;
       console.log(payload);
     }
   });

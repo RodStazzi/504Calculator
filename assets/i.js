@@ -344,9 +344,9 @@ document.getElementById('pago-transferencia').addEventListener('click', function
       //      desgloce += `%0ATOTAL ${total}`
 
       if (efectivo == false) {
-        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504Clean_T%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20total%20de%20${total}%20`;
+        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504clean_t%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20Total%20de%20${total}%20`;
       } else {
-        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504Clean_E%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20total%20de%20${total}%20`;
+        wspMessage = `https://api.whatsapp.com/send?phone=${phone}&text=%5B504clean_e%5D%20Que%20tal%20vecino,%20soy%20${datosDespacho.nombre.value}%20acabo%20de%20hacer%20mi%20pedido%20compuesto%20de%20${desgloce}%20por%20un%20Total%20de%20${total}%20`;
       }
 //  `%20pedido%0A2 Limpiavidrios 1234%0A3 Servilletas 1234%0A5 Papel%20Higi%C3%A9nico 1234`
       if (efectivo == true) {
